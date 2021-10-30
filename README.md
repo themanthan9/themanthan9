@@ -19,4 +19,4 @@
 
 - **Angular JS**
 ----------------
-<a href="https://app.daily.dev/themanthan9"><img src="https://api.daily.dev/devcards/7a8cc7abd21f487a84043b89346b15e8.png?r=mge" width="400" alt="Manthan Thummar's Dev Card"/></a>
+<a href="https://app.daily.dev/themanthan9"><img src="https://api.daily.dev/devcards/7a8cc7abd21f487a84043b89346b15e8.png?r=xci" width="400" alt="Manthan Thummar's Dev Card"/></a>
