@@ -1,26 +1,3 @@
-# 👋 Hi, I’m Manthan
-
-## I'm `Frontend Developer`
-### I'm Expert in ::
-
-- **Web design**
-  - HTML
-  - CSS
-    - Bootstrap 4&5
-    - Tailwind CSS
-  - JavaScript
-    - JQuery
-
-- **React JS**
-  - Next JS
-
-- **Vue JS**
-  - Nuxt JS
-
-- **Angular JS**
-
-
-
 <h1 align="center">Hi 👋, I'm Manthan Thummar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -34,7 +11,7 @@
 
 - 🌱 I’m currently learning **Angular JS**
 
-- 👯 I’m looking to collaborate on [Micrasol LLP](https://www.micrasolution.com/)
+- 👯 I’m looking to collaborate on [Lifelipi Code](https://www.lifelipi.com/)
 
 - 👨‍💻 All of my projects are available at [lifelipi.com](lifelipi.com)
 
