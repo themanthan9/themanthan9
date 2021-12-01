@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manthan Thummar</h1>
-<h3 align="center">A passionate Frontend Developer from India &#127470;</h3>
+<h3 align="center">A passionate Frontend Developer from India :india:</h3>
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=themanthan9&label=Profile%20views&color=0e75b6&style=flat"
 		alt="themanthan9" />
