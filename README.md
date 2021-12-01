@@ -5,7 +5,7 @@
 		alt="themanthan9" />
 </p>
 <p align="right">
-	<a href="https://twitter.com/themanthan9" target="blank">
+	<a href="https://twitter.com/themanthan9" target="_blank">
 		<img src="https://img.shields.io/twitter/follow/themanthan9?logo=twitter&style=for-the-badge"
 			alt="themanthan9" />
 	</a>
