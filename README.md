@@ -78,7 +78,7 @@
 	</a>
 	<br />
 	<br />
-	JavaScript Wireframe :
+	JavaScript Framework :
 	<br />
 	<br />
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -141,7 +141,7 @@
 	</a>
 	<br />
 	<br />
-	Also familir with UI software :
+	Also Familiar with UI Software :
 	<br />
 	<br />
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
