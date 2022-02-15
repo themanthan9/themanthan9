@@ -177,4 +177,8 @@
 	</tr>
 </table>
 
-<a href="https://app.daily.dev/themanthan9" align="center"><img src="https://api.daily.dev/devcards/7a8cc7abd21f487a84043b89346b15e8.png?r=43b" width="400" alt="Manthan Thummar's Dev Card"/></a>
+<p align="center">
+	<a href="https://app.daily.dev/themanthan9">
+		<img src="https://api.daily.dev/devcards/7a8cc7abd21f487a84043b89346b15e8.png?r=43b" width="400" alt="Manthan Thummar's Dev Card"/>
+	</a>
+</p>
