@@ -34,7 +34,7 @@
 	</a>
 </p>
 
-- 🔭 I’m currently working at [[Tameta Tech](https://tameta.tech/)]
+- 🔭 I’m currently working at [Tameta Tech](https://tameta.tech/)
 - 👨‍💻 All of my projects are available at [Github / Manthan](https://github.com/themanthan9)
 - 💬 Ask me about **Frontend Work**
 - 📫 How to reach me **manthanthummar9@gmail.com**
