@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/themanthan9">
-    <img src="https://github-profile-trophy.vercel.app/?username=themanthan9" alt="themanthan9">
+    <img src="https://github-profile-trophy.vercel.app/?username=themanthan9&column=4" alt="themanthan9">
   </a>
 </div>
 
