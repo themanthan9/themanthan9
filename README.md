@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -38,10 +38,16 @@
 
 <hr/>
 
-<div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<div align="center">
+  <a href="https://github.com/themanthan9" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=themanthan9" alt="themanthan9">
   </a>
 </div>
 
 ###
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themanthan9" alt="themanthan9">
+</div>
