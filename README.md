@@ -51,3 +51,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=themanthan9" alt="themanthan9">
 </div>
+
+  <a href="https://github.com/themanthan9">
+    <img src="https://github-profile-trophy.vercel.app/?username=themanthan9&column=4&margin-w=20&margin-h=20" alt="themanthan9">
+  </a>
+  <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themanthan9" alt="themanthan9">
+</div>
