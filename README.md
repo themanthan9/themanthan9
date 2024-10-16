@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning custom Shopify solution<br>🎲 Fun fact: No way without code 😟</p>
+<p align="left">✨ Creating bugs since 2020<br>🎲 Fun fact: No way without code 😟</p>
 
 ###
 
