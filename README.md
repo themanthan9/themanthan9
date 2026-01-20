@@ -49,5 +49,5 @@
 <hr/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themanthan9" alt="themanthan9">
+  <img src="https://github-trophies.vercel.app/?username=themanthan9" alt="themanthan9">
 </div>
