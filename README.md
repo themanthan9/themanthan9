@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🎲 Fun fact: No way without code 😟</p>
+<p align="left">✨ Resolving bugs since 2020<br>🎲 Fun fact: No way without code 😟</p>
 
 ###
 
@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://github.com/themanthan9">
-    <img src="https://github-profile-trophy.vercel.app/?username=themanthan9&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="themanthan9">
+    <img src="https://github-readme-stats.vercel.app/api?username=themanthan9&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="themanthan9">
   </a>
 </div>
 
