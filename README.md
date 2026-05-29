@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Resolving bugs since 2020<br>🎲 Fun fact: No way without code 😟</p>
+<p align="left">✨ Resolving bugs since 2019<br>🎲 Fun fact: No way without code 😟</p>
 
 ###
 
@@ -40,16 +40,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gulp" height="40" alt="Gulp logo"  />
-</div>
-
-###
-
-<hr/>
-
-<div align="center">
-  <a href="https://github.com/themanthan9">
-    <img src="https://github-readme-stats.vercel.app/api?username=themanthan9&column=4&margin-w=20&margin-h=20&title=-Stars,-Followers,-PullRequest,-Reviews" alt="themanthan9">
-  </a>
 </div>
 
 ###
